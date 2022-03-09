@@ -1,2 +1,2 @@
 # justinfederico.github.io
-# Yeah so even I don't understand this code
+# My personal website will be hosted here once I create it.
